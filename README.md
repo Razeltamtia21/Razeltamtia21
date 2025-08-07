@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/84/a0/11/84a011a5b34cdfdc99747c8955b6d156.jpg" width="800" alt="Razel Coding Banner" />
+  <img src="https://i.pinimg.com/1200x/84/a0/11/84a011a5b34cdfdc99747c8955b6d156.jpg" width="800" border-radius="20" alt="Razel Coding Banner" />
 </p>
 
 

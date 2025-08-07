@@ -17,21 +17,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razeltamtia21&show_icons=true&theme=radical&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razeltamtia21&layout=compact&theme=radical&border_radius=10" width="40%" />
-</p>
-
----
-
-## 📬 Contact Me
-
-- 📧 Email: [razeltamtia21@email.com](mailto:razeltamtia21@email.com)  
-- 📸 Instagram: [@rzlmcl21](https://www.instagram.com/rzlmcl21)  
-- 💼 GitHub: [github.com/razeltamtia21](https://github.com/razeltamtia21)
-
----
-
 <p align="center">✨ Thank you for visiting my profile! Let’s build amazing things together! ✨</p>

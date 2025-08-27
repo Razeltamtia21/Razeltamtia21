@@ -4,12 +4,6 @@
 
 
 <p align="center">
-  <a href="mailto:razeltamtia21@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/rzlmcl21">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://github.com/razeltamtia21">
     <img src="https://komarev.com/ghpvc/?username=razeltamtia21&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
